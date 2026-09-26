@@ -2,8 +2,8 @@
 Travaux dirigés Python &amp; Data Science - UPJV Amiens
 """# Python & Data Science — UPJV Amiens
 
-**Étudiant·e :** Prénom Nom
-**Formation :** L3 Économie / M1 Économie
+**Étudiant·e :** Alexis Urbano
+**Formation :** L3 Économie
 **Année :** 2026-2027
 
 ## Description
@@ -15,7 +15,7 @@ Python & Data Science réalisés sur Google Colab.
 
 | TD | Sujet | Statut |
 |----|-------|--------|
-| [TD1](td01_enonce.ipynb) | Introduction à Git | :white_check_mark: |
+| [TD1](https://colab.research.google.com/drive/1-thD7_TU6YHdkxdkVxVjj6C3UcYG805x?authuser=1) | Introduction à Git | :white_check_mark: |
 | [TD2](td02_enonce.ipynb) | Introduction à GitHub | :white_check_mark: |
 | TD3 | Les bases de Python | :x: |
 
